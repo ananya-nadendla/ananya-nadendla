@@ -10,7 +10,7 @@ I’m looking to gain hands-on experience, work on impactful projects, and furth
 - **[Chatbot Development]**: Created and deployed chatbots using IBM Watson Assistant as part of the [IBM Applied AI Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/JHKT2XVA5M3V).
 
 ## 💻 Skills
-- **Languages**: Java, C++, C, Python, HTML/CSS/JavaScript, x86 Assembly, SQL
+- **Languages**: Java, C++, C, Python, HTML/CSS/JavaScript, x86 Assembly, SQL, Dart
 - **Tools & Technologies**: IBM Watson AI, Flask, Pandas, NumPy, Beautiful Soup, Flutter
 
 ## 📚 Education
