@@ -1,6 +1,6 @@
 # Hi there! I'm Ananya Nadendla 👋
 
-Welcome to my GitHub profile! I’m a Computer Science student at Rutgers University with a passion for software development and AI. I'm always excited to learn new skills and combine programming with my passions for illustration, astronomy, physics, and philosophy. 
+Welcome! I’m a Computer Science student at Rutgers University with a passion for software development and AI. I'm always excited to learn new skills and combine programming with my passions for illustration, astronomy, physics, and philosophy. 
 
 🌟 **Open to Summer 2025 Internships!**  
 I’m looking to gain hands-on experience, work on impactful projects, and further develop my skills. Feel free to get in touch!
