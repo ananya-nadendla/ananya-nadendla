@@ -6,7 +6,7 @@ Welcome! I’m a Computer Science student at Rutgers University with a passion f
 I’m looking to gain hands-on experience, work on impactful projects, and further develop my skills. Feel free to get in touch!
 
 ## 🚀 Projects
-- **[Food Allergy Scanner App](https://github.com/ananya-nadendla/food_allergy_scanner)**: A Flutter app designed to tell users with food allergies if a food product is safe to eat using text recognition. *(WIP).*
+- **[Can I Eat That App](https://github.com/ananya-nadendla/can_i_eat_that)**: A Flutter app designed to tell users with food allergies if a food product is safe to eat using text recognition. *(WIP).*
 - **Chatbot Development**: Created and deployed chatbots using IBM Watson Assistant as part of the [IBM Applied AI Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/JHKT2XVA5M3V).
 
 ## 💻 Skills
